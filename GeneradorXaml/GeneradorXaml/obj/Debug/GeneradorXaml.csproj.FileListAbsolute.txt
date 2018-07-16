@@ -36,6 +36,7 @@ C:\Users\Omar\Documents\GeneradorXaml\GeneradorXaml\GeneradorXaml\bin\Debug\Obje
 C:\Users\Omar\Documents\GeneradorXaml\GeneradorXaml\GeneradorXaml\bin\Debug\ObjectReflectorBase.pdb
 C:\Users\Omar\Documents\GeneradorXaml\GeneradorXaml\GeneradorXaml\obj\Debug\SelectorObjeto.g.cs
 C:\Users\Omar\Documents\GeneradorXaml\GeneradorXaml\GeneradorXaml\obj\Debug\SelectorObjeto.baml
+<<<<<<< HEAD
 C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\bin\Debug\GeneradorXaml.exe.config
 C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\bin\Debug\GeneradorXaml.exe
 C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\bin\Debug\GeneradorXaml.pdb
@@ -59,3 +60,5 @@ C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\Gener
 C:\Users\Juan\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\bin\Debug\GeneradorXaml.exe.config
 C:\Users\Juan\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\GeneradorXaml.exe
 C:\Users\Juan\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\GeneradorXaml.pdb
+=======
+>>>>>>> 6dcb379450fa3f24ca3d13713f4aeecdea561427

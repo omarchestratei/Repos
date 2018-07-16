@@ -135,12 +135,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ObjectReflectorBase\ObjectReflectorBase.csproj">
-      <Project>{86d85137-caa2-4bcb-ab3e-7aac32767e13}</Project>
-      <Name>ObjectReflectorBase</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

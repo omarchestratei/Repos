@@ -6,4 +6,15 @@ GeneradorXaml/.vs/GeneradorXaml/v14/.suo
 GeneradorXaml/GeneradorXaml/obj/Debug/GeneradorXaml_MarkupCompile.i.lref
 GeneradorXaml/GeneradorXaml/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 GeneradorXaml/GeneradorXaml/obj/Debug/GeneradorXaml_MarkupCompile.i.lref
+<<<<<<< HEAD
 GeneradorXaml/.vs/GeneradorXaml/v14/.suo
+=======
+GeneradorXaml/GeneradorXaml/obj/Debug/GeneradorXaml_MarkupCompile.lref
+GeneradorXaml/GeneradorXaml/obj/Debug/MainWindow.baml
+GeneradorXaml/GeneradorXaml/obj/Debug/MainWindow.g.cs
+GeneradorXaml/GeneradorXaml/obj/Debug/PedirCantidad.baml
+GeneradorXaml/GeneradorXaml/obj/Debug/PedirCantidad.g.cs
+GeneradorXaml/GeneradorXaml/obj/Debug/SelectorObjeto.baml
+GeneradorXaml/GeneradorXaml/obj/Debug/SelectorObjeto.g.cs
+GeneradorXaml/GeneradorXaml/obj/Debug/GeneradorXaml.csproj.FileListAbsolute.txt
+>>>>>>> 91017bcf5a8642c4ba5a52ddad673e73dfc3515f

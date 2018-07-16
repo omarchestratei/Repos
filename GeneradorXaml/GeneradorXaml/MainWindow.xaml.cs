@@ -9,6 +9,7 @@ using System.Windows;
 
 namespace GeneradorXaml
 {
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>

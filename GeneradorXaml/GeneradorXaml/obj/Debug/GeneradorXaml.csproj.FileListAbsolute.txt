@@ -56,3 +56,6 @@ C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\Gener
 C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\GeneradorXaml.csproj.GenerateResource.Cache
 C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\GeneradorXaml.exe
 C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\GeneradorXaml.pdb
+C:\Users\Juan\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\bin\Debug\GeneradorXaml.exe.config
+C:\Users\Juan\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\GeneradorXaml.exe
+C:\Users\Juan\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\GeneradorXaml.pdb

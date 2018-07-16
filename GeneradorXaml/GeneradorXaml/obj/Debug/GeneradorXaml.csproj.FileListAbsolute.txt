@@ -36,3 +36,6 @@ C:\Users\Omar\Documents\GeneradorXaml\GeneradorXaml\GeneradorXaml\bin\Debug\Obje
 C:\Users\Omar\Documents\GeneradorXaml\GeneradorXaml\GeneradorXaml\bin\Debug\ObjectReflectorBase.pdb
 C:\Users\Omar\Documents\GeneradorXaml\GeneradorXaml\GeneradorXaml\obj\Debug\SelectorObjeto.g.cs
 C:\Users\Omar\Documents\GeneradorXaml\GeneradorXaml\GeneradorXaml\obj\Debug\SelectorObjeto.baml
+C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\bin\Debug\GeneradorXaml.exe.config
+C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\GeneradorXaml.exe
+C:\Users\Omar\Documents\GitHub\Repos\GeneradorXaml\GeneradorXaml\obj\Debug\GeneradorXaml.pdb
